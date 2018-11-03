@@ -1,0 +1,21 @@
+{
+  "name": "rest_api_lab_wdw",
+  "version": "1.0.0",
+  "description": "RESTful API Lab @ WDW 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Joshua Durham",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.5"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "mongodb": "^3.1.8"
+  }
+}
