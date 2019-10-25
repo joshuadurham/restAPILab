@@ -3,7 +3,7 @@
 
 #### What is this lab about
 
-This lab is from the 2018 Web Dev Weekend Talk for RESTful API Design. The lab goes through building endpoints for a server that simulates a basic Twitter service for managing users and tweets.
+This lab is from the 2019 Web Dev Weekend Talk for RESTful API Design. The lab goes through building endpoints for a server that simulates a basic Twitter service for managing users and tweets.
 
 If you want more information on MongoDB queries, or want to add more functionality to your endpoints, check out the [MongoDB collection documentation](https://docs.mongodb.com/manual/reference/method/js-collection/)
 
